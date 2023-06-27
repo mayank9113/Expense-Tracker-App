@@ -1,0 +1,41 @@
+.transactions-count-1{
+    box-shadow: 0 0 3px grey;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 200px;
+    color: rgb(56, 55, 55) !important;
+}
+.transactions-count-2{
+    box-shadow: 0 0 3px grey;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 200px;
+    color: rgb(56, 55, 55) !important;
+}
+
+.analytics h4 {
+    font-size: 18px;
+    font-weight: 630;
+}
+.analytics h5 {
+    font-size: 16px;
+}
+.category-card{
+   padding: 3px 15px;
+   box-shadow: 0 0 3px grey;  
+   margin-top: 25px;
+   
+   border-radius: 10px;
+}
+.ant-progress-bg {
+    background-color: #4c3cc8 !important;
+}
+
+.category-analysis-1{
+margin-left: 100px;
+
+}
+.category-analysis-2{
+    
+margin-right: 50px;
+}
