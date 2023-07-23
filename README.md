@@ -1,6 +1,6 @@
 # Expense-Tracker-App
 
-# Description
+• Tools used: React.js, Node.js, Express.js, MongoDB, Bootstrap
 
 • Expense-Tracker is a Personal finance management application that allows users to create, categorize, and document their income and expenses which helps them in financial planning and analysis.
 
@@ -14,6 +14,3 @@ PROJECT DEPLOYED LINK -> https://expense-tracker-app-abf4.onrender.com
 
 The frontend code is in branch -> client_code.
 
-# Tools used
-
-• React.js, Node.js, Express.js, MongoDB, Bootstrap
